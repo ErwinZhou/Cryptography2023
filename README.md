@@ -12,7 +12,7 @@ we went further down in the sphere of Cryptography.
 
 Here provides lab codes and reports for every homework of mine, plus other info I find essential that may be useful.
 
-Feel free to contact me on batmen6667@proton.me
+Feel free to contact me on batman6667@proton.me
 
 
 
