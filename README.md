@@ -1,6 +1,26 @@
 # Cryptography 2023
 
-## NKU 计算机与网络空间安全学院大三
+## NKU 
+
+### College of Computer and Cyber Science Junior
+
+#### Professor: Ming Su
+
+Based on **Mathematics of Information Security** last semester, 
+
+we went further down in the sphere of Cryptography.
+
+Here provides lab codes and reports for every homework of mine, plus other info I find essential that may be useful.
+
+Feel free to contact me on batmen6667@proton.me
+
+
+
+
+
+
+
+## 计算机与网络空间安全学院大三
 
 #### 老师：suming苏明
 
