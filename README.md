@@ -1,18 +1,13 @@
-# Cryptography 2023
+#  Cryptography 2023
+## Nankai University
+###  College of Computer and Cyber Science Junior
+#### Associate Professor: Ming Su
 
-## NKU 
+Based on **Mathematics of Information Security** last semester, we went further down in the sphere of Cryptography.
 
-### College of Computer and Cyber Science Junior
+Here provides lab codes and reports for every homework of mine, plus other info I find essential and could be useful.
 
-#### Professor: Ming Su
-
-Based on **Mathematics of Information Security** last semester, 
-
-we went further down in the sphere of Cryptography.
-
-Here provides lab codes and reports for every homework of mine, plus other info I find essential that may be useful.
-
-Feel free to contact me on batman6667@proton.me
+Feel free to contact me on ErwinZhou@outlook.com
 
 
 
@@ -20,9 +15,11 @@ Feel free to contact me on batman6667@proton.me
 
 
 
-## 计算机与网络空间安全学院大三
+## 南开大学
 
-#### 老师：suming苏明
+### 计算机与网络空间安全学院大三
+
+#### 副教授：苏明Suming
 
 基于大二下的信息安全数学基础，内容还是很有趣的，很多数学知识，也很有挑战性，
 
